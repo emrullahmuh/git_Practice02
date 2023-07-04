@@ -5,5 +5,7 @@ public class Logi_page {
         System.out.println("for  login type your user name");
    //slamura temoura shrimp is the
 
+        // antepliyim magammen cigkofteyi severem
+
     }
 }
